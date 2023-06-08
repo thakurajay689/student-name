@@ -2,7 +2,7 @@
 
 Hey! Welcome to my portfolio.
 
-It's coming up tomorrow when I learn HTML and CSS wuth Ajay Thakur on Youtube.
+It's coming up tomorrow when I learn HTML and CSS wuth Ajay Thakur Thakur on Youtube.
 
 For know, I know:
 
